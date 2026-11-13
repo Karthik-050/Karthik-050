@@ -9,6 +9,8 @@
 ![Theme](https://img.shields.io/badge/ARMOR%20SYSTEM-ONLINE-8A1010?style=for-the-badge&labelColor=111111)
 ![Focus](https://img.shields.io/badge/FOCUS-RED%20TEAM%20%7C%20RE-DAA520?style=for-the-badge&labelColor=111111)
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=700&color=F5B942&background=10101000&center=true&vCenter=true&width=720&lines=IRON+SYSTEM+ONLINE;RED+TEAM+%7C+REVERSE+ENGINEERING;KALI+LINUX+%7C+PYTHON+%7C+C" alt="Animated red and gold security HUD" />
+
 </div>
 
 ---
@@ -25,6 +27,14 @@ My current learning path includes **Kali Linux, Python, C, networking and securi
 
 ## `> PROJECTS`
 
+### NetSentinel-AI
+Real-time network intrusion detection and threat intelligence dashboard. The public repository currently contains a frontend directory; see the repository for its current implementation.
+
+### Secure Storing and Sharing System
+A Flask application for authenticated file uploads, AES-GCM encryption, malware scanning, controlled sharing, and audit logging. The repository documents MySQL and Supabase PostgreSQL database options and notes that durable file storage and scanning setup are still needed for a production-ready deployment.
+
+### SIH2026-Z-END
+A public Smart India Hackathon 2026 project repository with backend, frontend, database, documentation, and data directories. See the repository README for the project’s current scope and setup details.
 
 ### ML-Based Exam Monitoring & Plagiarism Detection System
 A project using **Flask, MongoDB, Isolation Forest, and similarity detection** to explore exam monitoring and plagiarism detection.
@@ -68,5 +78,6 @@ These are learning and practice areas; they do not imply certifications, profess
 `SUIT STATUS: LEARNING · BUILDING · ITERATING`
 
 </div>
+
 
 
