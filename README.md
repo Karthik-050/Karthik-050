@@ -25,6 +25,7 @@ My current learning path includes **Kali Linux, Python, C, networking and securi
 
 ## `> PROJECTS`
 
+
 ### ML-Based Exam Monitoring & Plagiarism Detection System
 A project using **Flask, MongoDB, Isolation Forest, and similarity detection** to explore exam monitoring and plagiarism detection.
 
