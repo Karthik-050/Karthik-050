@@ -25,15 +25,6 @@ My current learning path includes **Kali Linux, Python, C, networking and securi
 
 ## `> PROJECTS`
 
-### NetSentinel-AI
-Real-time network intrusion detection and threat intelligence dashboard. The public repository currently contains a frontend directory; see the repository for its current implementation.
-
-### Secure Storing and Sharing System
-A Flask application for authenticated file uploads, AES-GCM encryption, malware scanning, controlled sharing, and audit logging. The repository documents MySQL and Supabase PostgreSQL database options and notes that durable file storage and scanning setup are still needed for a production-ready deployment.
-
-### SIH2026-Z-END
-A public Smart India Hackathon 2026 project repository with backend, frontend, database, documentation, and data directories. See the repository README for the project’s current scope and setup details.
-
 ### ML-Based Exam Monitoring & Plagiarism Detection System
 A project using **Flask, MongoDB, Isolation Forest, and similarity detection** to explore exam monitoring and plagiarism detection.
 
